@@ -1,0 +1,8 @@
+D:\C# Programs\ADOHandsOn\bin\Debug\ADOHandsOn.exe.config
+D:\C# Programs\ADOHandsOn\bin\Debug\ADOHandsOn.exe
+D:\C# Programs\ADOHandsOn\bin\Debug\ADOHandsOn.pdb
+D:\C# Programs\ADOHandsOn\obj\Debug\ADOHandsOn.csproj.AssemblyReference.cache
+D:\C# Programs\ADOHandsOn\obj\Debug\ADOHandsOn.csproj.SuggestedBindingRedirects.cache
+D:\C# Programs\ADOHandsOn\obj\Debug\ADOHandsOn.csproj.CoreCompileInputs.cache
+D:\C# Programs\ADOHandsOn\obj\Debug\ADOHandsOn.exe
+D:\C# Programs\ADOHandsOn\obj\Debug\ADOHandsOn.pdb
